@@ -33,7 +33,7 @@ on:
         required: false
         default: 'false'
 #  schedule:
-#    - cron: 0 8 */5 * *
+#    - cron: 0 4 */15 * *
 
 jobs:
   build:
